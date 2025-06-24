@@ -15,6 +15,8 @@ Este sistema está compuesto por dos módulos principales:
 2. **Modelo de lenguaje natural (frontend)**  
    - Basado en *Mistral 7B Instruct*, cuantizado en GGUF.
    - Funciona como interfaz conversacional mediante Gradio, interpretando los resultados del análisis y resolviendo dudas del usuario.
+  
+Los codigos finales están dentro de la carpeta llamada: Cuadernos Terminados Para Ejecutar
 
 # Referencias clave
 Dataset: MalMem2022 - UNB Canada
