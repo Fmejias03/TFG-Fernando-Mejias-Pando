@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente, modelos entrenados y archivos de análisis correspondientes al Trabajo de Fin de Grado (TFG) titulado:
 
-**“Sistema inteligente de detección de amenazas mediante aprendizaje automático e interacción natural con el usuario”**, realizado por **Fernando Mejías Pando** (UAX, 2025).
+**“Desarrollo de un modelo de inteligencia artificial para la detección temprana de malware mediante análisis de comportamiento”**, realizado por **Fernando Mejías Pando** (UAX, 2025).
 
 ## Descripción del proyecto
 
