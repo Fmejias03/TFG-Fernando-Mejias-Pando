@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente, modelos entrenados y archivos de an
 
 **“Sistema inteligente de detección de amenazas mediante aprendizaje automático e interacción natural con el usuario”**, realizado por **Fernando Mejías Pando** (UAX, 2025).
 
-## 🧠 Descripción del proyecto
+## Descripción del proyecto
 
 Este sistema está compuesto por dos módulos principales:
 
