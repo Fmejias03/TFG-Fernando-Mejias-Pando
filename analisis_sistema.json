@@ -1,0 +1,131 @@
+{
+    "ultimo_analisis": "2025-06-22 15:24",
+    "procesos_analizados": 25,
+    "resultados": [
+        {
+            "nombre": "docker-init",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "node",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "oom_monitor.sh",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "run.sh",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "kernel_manager_proxy",
+            "malware": true,
+            "probabilidad": 0.93
+        },
+        {
+            "nombre": "tail",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "tail",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "python3",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "colab-fileshim.",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "jupyter-noteboo",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "dap_multiplexer",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "python3",
+            "malware": true,
+            "probabilidad": 0.8967
+        },
+        {
+            "nombre": "python3",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "language_service",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "node",
+            "malware": true,
+            "probabilidad": 0.93
+        },
+        {
+            "nombre": "bash",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "drive",
+            "malware": true,
+            "probabilidad": 0.93
+        },
+        {
+            "nombre": "grep",
+            "malware": true,
+            "probabilidad": 0.93
+        },
+        {
+            "nombre": "drive",
+            "malware": true,
+            "probabilidad": 0.8967
+        },
+        {
+            "nombre": "fusermount",
+            "malware": true,
+            "probabilidad": 0.93
+        },
+        {
+            "nombre": "bash",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "directoryprefetcher_binary",
+            "malware": true,
+            "probabilidad": 0.9333
+        },
+        {
+            "nombre": "tail",
+            "malware": true,
+            "probabilidad": 0.93
+        },
+        {
+            "nombre": "python3",
+            "malware": true,
+            "probabilidad": 0.93
+        },
+        {
+            "nombre": "sleep",
+            "malware": true,
+            "probabilidad": 0.93
+        }
+    ]
+}
